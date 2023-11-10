@@ -1,0 +1,13 @@
+{
+  "name": "starknet-rpc-ctf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KasarLabs/starknet-rpc-ctf",
+  "author": "HxSimo <HxSimo@proton.me>",
+  "license": "MIT",
+  "dependencies": {
+    "javascript-obfuscator": "^4.1.0",
+    "nodejs": "^0.0.0",
+    "pg": "^8.11.3"
+  }
+}
